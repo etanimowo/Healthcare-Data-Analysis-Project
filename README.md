@@ -10,18 +10,18 @@ and risk factors such as blood pressure and glucose levels. The goal is to provi
 optimize hospital operations and patient care.
 
 ## Key KPIs Analyzed:
-✔ Total Admissions – Understanding hospital patient flow.
-✔ Readmission Rate (%) – Identifying trends in patient returns.
-✔ Average Wait Time – Measuring hospital efficiency.
-✔ Average Length of Stay (LOS) – Evaluating resource utilization.
-✔ Patient "At Risk" % – Assessing high-risk cases (BP ≥ 130 mmHg, Glucose ≥ 126 mg/dL).
+✔ **Total Admissions** – Understanding hospital patient flow.
+✔ ***Readmission Rate (%)** – Identifying trends in patient returns.
+✔ **Average Wait Time** – Measuring hospital efficiency.
+✔ **Average Length of Stay (LOS)** – Evaluating resource utilization.
+✔ **Patient "At Risk" %** – Assessing high-risk cases (BP ≥ 130 mmHg, Glucose ≥ 126 mg/dL).
 
 ## Data Visualizations:
-📌 Glucose Level by Readmission Status Trend – Identifying diabetes-related readmission risks.
-📌 Patient "At Risk" Analysis – Percentage of high-risk patients.
-📌 Blood Pressure by Age Group – Understanding hypertension trends.
-📌 Glucose Level Distribution – Visualizing glucose variations.
-📌 Blood Pressure Status Trend – Monitoring BP progression over time.
+📌 **Glucose Level by Readmission Status Trend** – Identifying diabetes-related readmission risks.
+📌 **Patient "At Risk" Analysis** – Percentage of high-risk patients.
+📌 **Blood Pressure by Age Group** – Understanding hypertension trends.
+📌 **Glucose Level Distribution** – Visualizing glucose variations.
+📌 **Blood Pressure Status Trend** – Monitoring BP progression over time.
 
 ## Files in this Repository:
 •	📄 healthcare_data.xlsx – Raw dataset used for analysis.
